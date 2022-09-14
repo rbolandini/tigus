@@ -1583,7 +1583,7 @@ div#categoriasListagem {
     border: 1px solid;
     position: fixed;
     right: 40px;
-    bottom: 160px;
+    bottom: 40px;
     text-align: center;
     background: var(--cor-da-marca);
     transition: all .2s;
